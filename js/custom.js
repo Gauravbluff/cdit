@@ -5,6 +5,7 @@ $(window).scroll(function(){
 
 
 $('.banner-home').owlCarousel({
+    autoPlay:true,
     loop:true,
     margin:10,
     nav:true,
