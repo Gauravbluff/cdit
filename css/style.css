@@ -902,7 +902,7 @@
     margin: auto;
 }
 .copy-area .copy p {
-    color: #fff;
+    color: #fff !important;
     margin-bottom: 0;
 }
 .copy-area .copy a {
@@ -945,7 +945,7 @@
     .con-content h2{font-weight: 600; color: #fff;font-size: 61px;line-height: 10px; padding-bottom: 20px;}
     .con-content p{color: #fff; padding: 10px 180px 30px; font-size: 25px; font-style: italic;}
     .con-info{margin-bottom: 20px;}
-    .conitem::before{position: absolute;content: '';top: 0;right: 0;left: 0;display: inline-block;background: linear-gradient(39deg,#0d6efd 0,rgb(255 255 255 / 0%) 100%);z-index: 11;min-height: 500px;}
+    .conitem::before{position: absolute;content: '';top: 0;right: 0;left: 0;display: inline-block;background: linear-gradient(39deg,#044366 0,rgb(255 255 255 / 0%) 100%);z-index: 11;min-height: 500px;}
 
 /* BANNER CSS END */
 .wve {    background: url(../images/waveb.webp);height: 126px;    z-index: 11;   position: absolute; top: 376px;}
